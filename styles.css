@@ -1,0 +1,108 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif:ital,wght@0,100..900;1,100..900&family=Pacifico&family=Roboto&family=Truculenta:opsz,wght@12..72,100..900&display=swap');
+
+body{
+    padding: 0;
+    margin: 0;
+}
+
+header h1{
+    text-align: center;    
+}
+
+main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.box1{
+    width: 40vw;
+    height: 80vh;
+    /* background-color: blue; */
+    /* padding: 2px; */
+    /* margin: 10px; */
+    border: 2px solid black;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+label{
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+}
+
+.form-control{
+    width: 30vw;
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+}
+
+.btn1{
+    width: 30vw;
+    background-color: rebeccapurple;
+    color: #ffffff;
+}
+
+.labque{
+    display: flex;
+}
+
+.que{
+    cursor: pointer;
+    height: 24px;
+    width: 24px;
+}
+
+.input-wrapper {
+    position: relative;
+    /* display: flex; */
+}
+
+.input-wrapper input[type="text"] {
+    padding-right: 30px; /* Ensure space for the icon */
+}
+
+.error-icon {
+    cursor: pointer;
+    height: 24px;
+    width: 24px;
+    position: absolute;
+    top: 50%;
+    right: 10px;
+    transform: translateY(-50%);
+    display: none; /* Initially hide the icon */
+    color: red; /* Icon color */
+}
+
+.results-box {
+    display: none; /* Hide the results box by default */
+    height: 60vh;
+    width: 60vw;
+    /* background-color: blue; */
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: white;
+    border: 2px solid black;
+    padding: 20px;
+    z-index: 9999; /* Make sure it appears above other elements */
+}
+
+.close-button {
+    position: absolute;
+    bottom: 7vh;
+    right: 25vw;
+}
+
+
+#taxResult{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
