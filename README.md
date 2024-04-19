@@ -50,5 +50,13 @@ cd tax-calculator
 - [Bootstrap](https://getbootstrap.com/)
 - [Font Awesome](https://fontawesome.com/)
 
+Screenshot of all tests passing:
+![Screenshot (79)](https://github.com/Charlie-logan/Fyle_Assignment/assets/74509859/6f2006ae-fdaf-4eb9-99bc-95b5fc2dbe11)
+![Screenshot (78)](https://github.com/Charlie-logan/Fyle_Assignment/assets/74509859/633cad57-f2a5-48ce-a1d5-c72836d083ac)
+![Screenshot (77)](https://github.com/Charlie-logan/Fyle_Assignment/assets/74509859/44071067-616e-4d25-9f47-4ecc81b3239b)
+![Screenshot (76)](https://github.com/Charlie-logan/Fyle_Assignment/assets/74509859/5efbc90f-9246-403b-8555-03eef6e14776)
+![Screenshot (75)](https://github.com/Charlie-logan/Fyle_Assignment/assets/74509859/b59aacdd-c9b8-4a95-b1df-3d72d0b4e3d5)
+![Screenshot (74)](https://github.com/Charlie-logan/Fyle_Assignment/assets/74509859/447ba102-5a64-4e13-8e96-19fbd15964e9)
+![Screenshot (73)](https://github.com/Charlie-logan/Fyle_Assignment/assets/74509859/2f58ce89-0325-41cb-a244-367b188a6b06)
+![Screenshot (71)](https://github.com/Charlie-logan/Fyle_Assignment/assets/74509859/01e1779b-7348-47a7-a92e-c193f1fd886d)
 
-Feel free to customize this README according to your project's specific details and requirements.
